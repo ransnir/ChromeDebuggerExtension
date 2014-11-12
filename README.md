@@ -4,9 +4,9 @@ Chrome Debugger Extension
 This is an init project that will add your chrome debugger panel a new tab
 
 
-** Getting started
+## Getting started
 
-1. Download the project to
+1. Download the project to:
 
     /your_path
 
