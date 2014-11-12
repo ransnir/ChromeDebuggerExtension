@@ -1,0 +1,12 @@
+{
+    "name": "MyTab",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "this is a new chrome debugger tab",
+    "devtools_page": "tabwrapper.html",
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ]
+}
